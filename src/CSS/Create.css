@@ -1,0 +1,15 @@
+body{
+    background-color: cornflowerblue;
+}
+.container{
+    background-color:white;
+    margin-top: 100px;
+    padding: 50px;
+    width: 600px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px black;
+}
+#show{
+    margin-left: 30px;
+    margin-top: 25px;
+}
