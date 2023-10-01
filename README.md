@@ -1,2 +1,2 @@
-# React-CRUD_1
-React CRUD with the mock API
+# React-CRUD
+React CRUD with the mock API and JSON server
